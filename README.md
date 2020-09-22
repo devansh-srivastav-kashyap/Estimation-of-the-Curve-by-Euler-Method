@@ -8,4 +8,6 @@ Output- The expected curve that is the solution to the Equation.
 
 In my code, I have set the differential equation as default. You may change it as per your interest. 
 
-Default Differential Equation- dy/dx + 2y= 2-exp(-4x) with initial condition as y(0)=1/
+Default Differential Equation- dy/dx + 2y= 2-exp(-4x) with initial condition as y(0)=1
+
+
